@@ -13,7 +13,7 @@ int main()
 		else
 			isblank = 0;
 
-		if (isblank == 0)
+		if (isblank == 1)
 			continue;
 		
 		putchar(c);
